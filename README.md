@@ -19,9 +19,9 @@
 ## Other interests
 * 🐶 dogs
 * 🦒 giraffes
-* 🧶 knitting and crocheting (currently making the [Oslo Sweater by PetiteKnit](https://www.petiteknit.com/en/products/oslo-sweater-1) and the [Magic Toadstool Socks by StoneKnits](etsy.com/listing/831334420/digital-item-magic-toadstool-sock))
+* 🧶 knitting and crocheting (currently making the [Camisole No. 9 by My Favourite Things Knitwear](https://myfavouritethings-knitwear.com/collections/english/products/camisole-no-9-english))
 * ⛸ figure skating
-* 📚 reading (current read: Daisy Jones & the Six)
-* 🎮 videogames (currently replaying Cooking Mama on the DS!) And because I love videogames, here is my motivation for being better about my commits:
+* 📚 reading (current read: Dance of Thieves)
+* 🎮 videogames (currently playing Lemon Cake) And because I love videogames and achievement badges, here is my motivation for being better about my commits:
 <br>[![GitHub Streak](https://streak-stats.demolab.com/?user=nekramer&theme=vue&hide_border=true)](https://git.io/streak-stats)
 
