@@ -19,7 +19,10 @@
 * 🦒 giraffes
 * 🧶 knitting and crocheting (currently making some socks from [The Sock Project](https://www.summerleedesignco.com/))
 * ⛸ figure skating
-* 📚 reading (current read: <!-- GOODREADS-LIST:START --><!-- GOODREADS-LIST:END -->)
+* 📚 reading (current read: <!-- GOODREADS-LIST:START -->
+- [The Membranes](https://www.goodreads.com/review/show/6187357965?utm_medium=api&utm_source=rss) by Chi Ta-wei
+- [A Certain Hunger](https://www.goodreads.com/review/show/4800837980?utm_medium=api&utm_source=rss) by Chelsea G. Summers
+<!-- GOODREADS-LIST:END -->)
 * 🎮 videogames (currently playing Super Mario Wonder)
 
 <br>[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=qvm6dvpfbxle9s5i2mikrzro7&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
