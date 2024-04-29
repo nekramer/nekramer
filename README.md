@@ -20,7 +20,7 @@
 * 🧶 knitting and crocheting (currently making some socks from [The Sock Project](https://www.summerleedesignco.com/))
 * ⛸ figure skating
 * 📚 reading (current read: <!-- GOODREADS-LIST:START -->
-- [The Membranes](https://www.goodreads.com/review/show/6187357965?utm_medium=api&utm_source=rss) by Chi Ta-wei
+- [The Long Way to a Small, Angry Planet (Wayfarers, #1)](https://www.goodreads.com/review/show/6450594141?utm_medium=api&utm_source=rss) by Becky  Chambers
 - [A Certain Hunger](https://www.goodreads.com/review/show/4800837980?utm_medium=api&utm_source=rss) by Chelsea G. Summers
 <!-- GOODREADS-LIST:END -->)
 * 🎮 videogames (currently playing Super Mario Wonder)
