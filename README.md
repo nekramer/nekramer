@@ -20,7 +20,7 @@
 * 🧶 knitting and crocheting (currently making some socks from [The Sock Project](https://www.summerleedesignco.com/))
 * ⛸ figure skating
 * 📚 reading (current read: <!-- GOODREADS-LIST:START -->
-- [The Hurricane Wars (The Hurricane Wars, #1)](https://www.goodreads.com/review/show/6515493917?utm_medium=api&utm_source=rss) by Thea Guanzon
+- [Ruthless Vows (Letters of Enchantment, #2)](https://www.goodreads.com/review/show/6546974005?utm_medium=api&utm_source=rss) by Rebecca   Ross
 - [A Certain Hunger](https://www.goodreads.com/review/show/4800837980?utm_medium=api&utm_source=rss) by Chelsea G. Summers
 <!-- GOODREADS-LIST:END -->)
 * 🎮 videogames (currently playing Super Mario Wonder)
