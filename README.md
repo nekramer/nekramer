@@ -20,6 +20,8 @@
 * 🧶 knitting and crocheting (currently making some socks from [The Sock Project](https://www.summerleedesignco.com/))
 * ⛸ figure skating
 * 📚 reading (current read: <!-- GOODREADS-LIST:START -->
+- [The Shadow of the Gods (Bloodsworn Saga, #1)](https://www.goodreads.com/review/show/6576802433?utm_medium=api&utm_source=rss) by John Gwynne
+- [The Mountain in the Sea](https://www.goodreads.com/review/show/6593346173?utm_medium=api&utm_source=rss) by Ray Nayler
 - [A Certain Hunger](https://www.goodreads.com/review/show/4800837980?utm_medium=api&utm_source=rss) by Chelsea G. Summers
 <!-- GOODREADS-LIST:END -->)
 * 🎮 videogames (currently playing Super Mario Wonder)
